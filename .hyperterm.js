@@ -6,8 +6,17 @@ module.exports = {
     // font family with optional fallbacks
     fontFamily: 'Menlo, "DejaVu Sans Mono", "Lucida Console", monospace',
 
+    // terminal cursor background color (hex)
+    // cursorColor: '#F81CE5',
+
+    // color of the text
+    // foregroundColor: '#fff',
+
     // terminal background color
-    backgroundColor: '#AA20252C',
+    backgroundColor: 'rgb(37,38,32)',
+
+    // border color (window, tabs)
+    borderColor: '#fff',
 
     // custom css to embed in the main window
     css: ``,
@@ -54,12 +63,12 @@ module.exports = {
   plugins: [
     "hyperterm-blink",
     "hyperterm-bold-tab",
-    "hyperterm-final-say"
+    "hyperterm-final-say",
     "hyperterm-mactabs",
     "hyperterm-subpixel-antialiased",
     "hyperterm-themed-scrollbar",
     "hyperterm-tinycursor",
-    "hyperterm-visor",
+    "hyperterm-visor"
   ],
 
   // in development, you can create a directory under
