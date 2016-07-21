@@ -6,17 +6,8 @@ module.exports = {
     // font family with optional fallbacks
     fontFamily: 'Menlo, "DejaVu Sans Mono", "Lucida Console", monospace',
 
-    // terminal cursor background color (hex)
-    // cursorColor: '#F81CE5',
-
-    // color of the text
-    // foregroundColor: '#fff',
-
     // terminal background color
     backgroundColor: '#AA20252C',
-
-    // border color (window, tabs)
-    // borderColor: '#333',
 
     // custom css to embed in the main window
     css: ``,
