@@ -1,7 +1,9 @@
 # hyperterm-setup
 My personal hyperterm config
 
-![screenshot](https://github.com/bjankord/hyperterm-setup/blob/master/screenshot.jpg?raw=true)
+<p align="center">
+ <img src="https://github.com/bjankord/hyperterm-setup/blob/master/screenshot.jpg?raw=true" alt="Hyperterm screenshot" />
+</p>
 
 ## Plugins I use
 
