@@ -1,7 +1,7 @@
 # hyperterm-setup
 My personal hyperterm config
 
-![screenshot](https://github.com/bjankord/hyperterm-setup/blob/master/Screen%20Shot%202016-07-21%20at%209.56.39%20AM.png?raw=true)
+![screenshot](https://github.com/bjankord/hyperterm-setup/blob/master/screenshot.jpg?raw=true)
 
 ## Plugins I use
 
